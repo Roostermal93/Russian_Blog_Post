@@ -1,0 +1,35 @@
+{
+    "count": 4,
+    "next": null,
+    "previous": null,
+    "results": [
+        {
+            "id": "b42cdde7-23d6-4c20-a152-9689259d2cb7",
+            "collectionId": "Russian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Blog_Post/b42cdde7-23d6-4c20-a152-9689259d2cb7/b42cdde7-23d6-4c20-a152-9689259d2cb7_ru_Male.mp4"
+        },
+        {
+            "id": "9f50d3a4-3232-4955-a57c-415fb0e633ec",
+            "collectionId": "Russian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Blog_Post/9f50d3a4-3232-4955-a57c-415fb0e633ec/9f50d3a4-3232-4955-a57c-415fb0e633ec_ru_Male.mp4"
+        },
+        {
+            "id": "82638d8f-34e6-4b21-a8c7-c56be07fc397",
+            "collectionId": "Russian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Blog_Post/82638d8f-34e6-4b21-a8c7-c56be07fc397/82638d8f-34e6-4b21-a8c7-c56be07fc397_ru_Female.mp4"
+        },
+        {
+            "id": "7605762c-73de-4d85-8699-6eb83d3c7ea4",
+            "collectionId": "Russian",
+            "type": "Blog_Post",
+            "status": "private",
+            "videoUrl": "https://www.theartofdrowning.com/AIContent/Russian/Russian_Blog_Post/7605762c-73de-4d85-8699-6eb83d3c7ea4/7605762c-73de-4d85-8699-6eb83d3c7ea4_ru_Male.mp4"
+        }
+    ]
+}
